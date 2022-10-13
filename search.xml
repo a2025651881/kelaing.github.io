@@ -12,6 +12,12 @@
       
       
       
+        <tags>
+            
+            <tag> hello world! </tag>
+            
+        </tags>
+      
     </entry>
     
     
@@ -26,10 +32,16 @@
       
       <categories>
           
-          <category> -Node.js </category>
+          <category> Node.js </category>
           
       </categories>
       
+      
+        <tags>
+            
+            <tag> MySql </tag>
+            
+        </tags>
       
     </entry>
     
